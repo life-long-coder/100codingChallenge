@@ -1,2 +1,2 @@
-# 100codingChallenge
+# 100dayscodingChallenge
  100 days coding challenge 
